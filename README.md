@@ -1,6 +1,6 @@
 # Todo (Basic Todo Appliccation)
 The Todo Application is built using the React JS and its components.
-This application is just a mini personal project for demonstartion myskills
+This application is just a mini personal project.
 
 
 # Features
