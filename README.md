@@ -25,7 +25,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/Jasswanth-dev/Todo.git
 
 # Navigate to the project folder
 cd your-project-folder
