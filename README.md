@@ -28,7 +28,7 @@ To run the project locally:
 git clone https://github.com/Jasswanth-dev/Todo.git
 
 # Navigate to the project folder
-cd your-project-folder
+cd Todo
 
 # Install dependencies
 npm install
